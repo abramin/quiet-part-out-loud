@@ -4,7 +4,7 @@
 ---
 
 ## Navigation  
-[Home](/) | [Study Schedule](/schedule.html)
+[Home](/index.md) | [Study Schedule](/schedule.md)
 
 ---
 
