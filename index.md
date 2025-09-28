@@ -1,4 +1,4 @@
-*A Psychology Student’s Journal of Learning and Living*  
+*A Psychology Student’s Journal of Learning*  
 
 ---
 
