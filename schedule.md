@@ -112,3 +112,33 @@ Submission window
 
 * Deadline: Tue 4 Nov 2025, 12:00 UK — TMA01 submission.
 * Keep module-only sourcing for TMA answers. Shadow materials are for personal development.
+
+---
+## Writing Exercises
+---
+
+### Week 1 — Orientation
+
+* Write a short essay: *“What is psychology for?”* Answer first as the OU defines it, then as you feel it personally.
+* Reflective piece: *“Science as shrine or science as tool?”* (How should psychology treat the psyche?)
+* Dream or symbol log: Record one dream this week and write a 300-word analysis, linking it to themes of self-knowledge.
+
+### Week 2 — Myths & Methods
+
+* Essay: *“The role of myth in everyday life.”* Compare one psychological myth to a cultural myth you know (e.g., in fitness or spirituality).
+* Critical response: *“Why received wisdom is persistent.”* Use examples from both psychology and your PT practice.
+* Thought experiment: Write about a world in which all psychological myths are literally true. What would daily life look like?
+
+### Week 3 — Intelligence
+
+* Exposition: *“Gardner’s intelligences as seen in my own life.”* Choose two intelligences and illustrate them from your personal history.
+* Comparative piece: *“Binet vs Gardner.”* Early IQ tests vs multiple intelligences—who serves human flourishing better?
+* Symbolic reflection: Map Gardner’s intelligences onto the Tarot suits or Jungian functions; argue for or against the fit.
+
+### Week 4 — Learning, Observation, Interviews
+
+* Essay: *“Learning outside the classroom.”* Describe a non-academic skill you learned and analyse it using psychological models of learning.
+* Case vignette: Write a short imagined transcript of a counselling intake interview (500 words). Then analyse what you were observing vs what you were interpreting.
+* Critical reflection: *“The ethics of observing another person.”* Where is the line between knowledge and intrusion?
+
+---
