@@ -1,4 +1,10 @@
+# The Quiet Part Out Loud  
 *A Psychology Student’s Journal of Learning*  
+
+---
+
+## Navigation  
+[Home](/) | [Study Schedule](/schedule.html)
 
 ---
 
