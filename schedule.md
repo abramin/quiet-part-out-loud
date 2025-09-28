@@ -1,12 +1,15 @@
----
+# The Quiet Part Out Loud  
+*A Psychology Student’s Journal of Learning*  
 
-## Navigation  
+---
+## Navigation
 [Home](/index.md) | [Study Schedule](/schedule.md)
 
 ---
-Block 1 schedule — Weeks 1–4 + TMA01 milestones
 
-Overview
+# Block 1 schedule — Weeks 1–4 + TMA01 milestones
+
+## Overview
 
 * Hours: ~17/week (≈14 OU, 3 shadow/TMA).
 * TMA01 (due Tue 4 Nov 2025, 12:00 UK). Part A: Gardner (Week 3, Book 1 Ch.2). Part B: Observations & Interviews (Week 4).
