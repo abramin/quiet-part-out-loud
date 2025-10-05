@@ -1,3 +1,8 @@
+---
+layout: default
+title: The Quiet Part Out Loud
+---
+
 # The Quiet Part Out Loud  
 *A Psychology Student’s Journal of Learning*  
 
@@ -23,7 +28,14 @@ Here you’ll find a mixture of:
 
 ## Latest Posts  
 
-- *(Coming soon)*  
+<ul>
+  {% for post in site.posts limit:5 %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+    </li>
+  {% endfor %}
+</ul>
 
 ---
 
