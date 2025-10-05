@@ -43,13 +43,6 @@ Here you’ll find a mixture of:
 
 Why *The Quiet Part Out Loud*? Because much of psychology—whether theory, practice, or self-work—turns on what usually remains unsaid. By putting words to these quiet parts, we can begin to see them, share them, and maybe even learn from them.  
 
----
-
-## Subscribe & Follow  
-
-- **RSS Feed**: [Coming soon]  
-- **Email Updates**: [Coming soon]  
-- **Contact**: [Your email or contact page link]  
 
 ---
 
