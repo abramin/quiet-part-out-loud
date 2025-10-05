@@ -1,6 +1,15 @@
 ---
-title: "About this blog"
-date: 2025-09-28
+title: "Is Psychology a science"
+date: 2025-10-05
 ---
 
-Lorem Ipsum
+Is Psychology a Science?
+
+To answer this we need to define both Psychology and Science - I will define them as I see them. Science is a method to gain understanding of the universe through its behaviour. Science does not and can never tell us what the universe is, only what it does. The ‘what’ is something that must be answered or at least explored with philosophy. Scientists build models to explain the results of their observations, but they are only ever models. The sin of scientism appears when scientists take their models for reality and begin to see only what their model includes, everything else being unworthy of attention or even non-existent. This is a sin psychology has not escaped (see Lisa Barret-Feldmans discussion of emotions).
+
+In terms of science´s method, there are broad and narrow definitions. The broad sense of science is the requirement for evidence and rational thought applied to the study of something. In this sense, history is the study of the past based on evidence and rational debate of the known facts. In the narrow sense we often mean, the hard sciences - disciplines where falsifiable experiments are performed and clear results obtained. There is often a confusion of “real” science with technology - in popular imagination science is something done in laboratories with specialised equipment where objective measurable data are collected.  Darwin used observations and built theories, but required no technology as such, nor was he engaged in traditionally conceived scientific experimentation. Simple observation of the natural world often sits uneasily in the company of the hard sciences.
+
+Psychology is relatively more simple to define; it is the study of human behaviour, including the sources of that behaviour in thoughts and feelings. The difficulty lies in the fact that half of that definition is observable, the other half lies within the consciousness of individual subjects. Thus the behaviourist attempt in the 20th century to make psychology a hard science by ignoring the inner half of the discipline and focussing entirely on external, observable behaviour. Though not always explicit, this dichotomy maps neatly to the problem of subjective consciousness. We cannot be sure of the existence of other minds (the behaviourists declared the problem moot), but if we assume they do exist, we must rely on self-report to learn about the contents of those other minds, using our own subjective experience as a gauge of authenticity. Since subjective states cannot be directly observed and measured, psychologists wishing to obtain the respectability of the hard sciences for their discipline, came up with a variety of compromises. TThey created scales for narrowly defined psychological constructs. These allowed quantification - even if the problem of having self-reflective test subjects self report and the impossibility of true double blinded studies was quietly ignored.
+
+At present there is not a one to one correlation between observable brain states and mental contents of the mind - an assumption on shaky ground in any case. Dropping the facade of being a hard science would not make psychology less respectable, simply more honest. A more honest discipline would engage deeply with philosophy and acknowledge the boundaries of proof in psychology and the role of model making as one of its strengths. A braver psychology would hold “truth” lightly, always aware that other equally good explanations were available and that what mattered was human flourishing, rather than the mere management of human subjects.
+
