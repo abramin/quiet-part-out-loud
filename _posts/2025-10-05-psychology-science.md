@@ -1,5 +1,5 @@
 ---
-title: "Is Psychology a science"
+title: "Is Psychology a science?"
 date: 2025-10-05
 ---
 
