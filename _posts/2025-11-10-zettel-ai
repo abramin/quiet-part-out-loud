@@ -1,0 +1,105 @@
+---
+title: "Building a ZettelKasten App"
+date: 2025-11-10
+---
+[← Back to Home]({{ "/" | relative_url }})
+
+Before starting my new degree in Psychology, I thought about ways to get the most out of the experience. 
+My interests have always been catholic, everything from anarchism to zoology, with a special interest in the middle of the 
+alphabet - magic, mathematics, mysticism, mythology, philosophy,physics, and psychology.
+
+I usually relied on traditional note-taking - filling notebooks with scribbled, barely legibke notes, which I then packed away and never returned to. 
+Taking the notes was the point as a way of processing the information I was reading, but I never found much use in my notes after that.
+
+I first came across Niklas Luhmann’s Zettelkasten method this summer, it felt like discovering the missing half of my brain. 
+One idea per note. Notes that link to each other. A web of thought that grows organically over time.
+
+[More information about zettelkasten](https://zettelkasten.de/introduction)
+
+I looked for digital tools but found them clunky and not specifically built for zettelkasten.
+Handwritten notes are better anyway - there's definitely a link between writing something by hand and it becoming part of you.
+
+However, I worried that I would soon lose track of all my notes and need to continually reread them in order to look for new connections.
+
+Existing digital tools were no help - they could store connections between notes, but they couldn’t suggest them.
+
+That’s where the idea for Zettel-AI began.
+
+What if the system itself could propose subtle associations — not the obvious “bird → feather” kind, 
+but the kind that spark genuine insight: fermentation → jazz - because...
+maybe fermentation is a living process and jazz is as well, so creating jazz is like letting your creativity ferment?
+
+## From Notes to Networks
+
+So I built Zettel-AI, a simple experiment that evolved into a personal thinking companion.
+
+![Zettel AI](/assets/images/fullscreen.png)
+
+At its core, it’s a place to write — short, atomic notes called zettels.
+
+![Zettel AI](/assets/images/note-view.png)
+
+Each note can have:
+a title and body,
+one or more tags (themes or topics), 
+and links to other notes that share a conceptual thread.
+
+![Zettel AI](/assets/images/new-note.png)
+
+But the magic happens when you create a new note.
+In the background, Zettel-AI compares your writing with everything you’ve written before, looking for potential relationships. 
+It doesn’t give you one answer — it gives you possibilities.
+“Maybe this connects to that.”
+
+You decide whether it’s meaningful or not.
+
+## A Thinking Partner, Not a Search Engine
+
+I wanted the AI to behave more like a psychological mirror than a search tool.
+Instead of giving you the most similar note, it offers interesting resonances,
+notes that share conceptual texture, even if the words differ completely.
+
+Over time, this creates an evolving web of your own thinking.
+
+You can:
+
+explore by tags or themes,
+
+![Zettel AI](/assets/images/tag-filter.png)
+
+search for concepts or phrases,
+
+![Zettel AI](/assets/images/keyword-search.png)
+
+see suggested links with possible reasons,
+
+![Zettel AI](/assets/images/suggest-rationale.png)
+
+generate possible summaries of connected notes,
+
+![Zettel AI](/assets/images/summarize.png)
+
+and see your thought-map visualized in an interactive graph.
+
+## What It Feels Like to Use
+
+When you start writing, you’re just collecting fragments.
+But after a few weeks, something strange happens: your notes start talking to each other.
+
+You might open a note about “The Trickster Archetype” and notice a suggested link to one about “Creative Destruction.” 
+You read both, nod, and realize they’re two expressions of the same psychological principle.
+
+Then you add a third note — “Play as Adaptation” — and the network shifts again.
+New clusters form. Old ones merge. The map of your thinking changes shape.
+
+That’s the feeling I wanted to build — not a database of thoughts, but a living topology of meaning.
+
+<hr>
+<p>
+{% if page.previous %}
+  <a href="{{ page.previous.url | relative_url }}">← {{ page.previous.title }}</a>
+{% endif %}
+{% if page.next %}
+  <a style="float:right" href="{{ page.next.url | relative_url }}">{{ page.next.title }} →</a>
+{% endif %}
+</p>
